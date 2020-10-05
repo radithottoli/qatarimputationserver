@@ -1,6 +1,6 @@
 site_name: Qatar Imputation Server
 theme:
-  name: material
+  name: readthedocs
   features:
     - navigation.instant
 nav:
