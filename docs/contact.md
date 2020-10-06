@@ -9,8 +9,8 @@ Please contact [Christian Fuchsberger](https://github.com/genepi/imputationserve
 
 Michigan Imputation Server provides a free genotype imputation service using Minimac4. You can upload phased or unphased GWAS genotypes and receive phased and imputed genomes in return. For all uploaded data sets an extensive QC is performed.
 
-* [Dr. Younes Mokrab](ymokrab@sidra.org)
-* [Dr. Rozaimi Razali](rmohamadra@sidra.org)
+* [Dr. Younes Mokrab](mailto:ymokrab@sidra.org)
+* [Mokrablab](mailto:mokrablab@sidra.org)
 
 ## Imputation engine: [Minimac4](https://genome.sph.umich.edu/wiki/Minimac4)
 
