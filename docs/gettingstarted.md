@@ -17,13 +17,10 @@ The following options are available:
 
 Our server offers genotype imputation from different reference panels. The most accurate and largest panel is **HRC (Version r1.1 2016)**. Please select one that fulfills your needs and supports the population of your input data:
 
-* HRC (Version r1.1 2016)
-* HRC (Version r1 2015)
+* Qatar Genome
 * 1000 Genomes Phase 3 (Version 5)
-* 1000 Genomes Phase 1 (Version 3)
-* CAAPA - African American Panel
 * HapMap 2
-* TOPMed Freeze5 (in preparation)
+
 
 ### Input files
 
