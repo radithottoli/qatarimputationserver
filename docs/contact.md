@@ -12,9 +12,11 @@ Qatar Imputation Server provides a free genotype imputation service using Minima
 * [Dr. Younes Mokrab](mailto:ymokrab@sidra.org)
 * [Mokrablab](mailto:mokrablab@sidra.org)
 
-Sidra Medicine and Research
-Ar Rayyan
+Sidra Medicine and Research  
+Ar Rayyan  
+PO BOX: 26999  
 Doha, Qatar
+
 
 ## Imputation engine: [Minimac4](https://genome.sph.umich.edu/wiki/Minimac4)
 
