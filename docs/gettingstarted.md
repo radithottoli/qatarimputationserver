@@ -57,11 +57,11 @@ After clicking on the **Add URLs** button, a new dialog appears where you can ad
 
 ### Build
 
-Please select the build of your data. Currently the options **hg19** and **hg38** are supported. Michigan Imputation Server automatically updates the genome positions (liftOver) of your data. All reference panels except TOPMed are based on hg19 coordinates.
+Please select the build of your data. Currently the options **hg19** and **hg38** are supported. Qatar Imputation Server automatically updates the genome positions (liftOver) of your data. All reference panels except TOPMed are based on hg19 coordinates.
 
 ### rsq Filter
 
-To minimize the file size, Michigan Imputation Server includes a r2 filter option, excluding all imputed SNPs with a r2-value (= imputation quality) smaller then the specified value.
+To minimize the file size, Qatar Imputation Server includes a r2 filter option, excluding all imputed SNPs with a r2-value (= imputation quality) smaller then the specified value.
 
 ### Phasing
 

@@ -1,10 +1,5 @@
 # Contact
 
-The complete Michigan Imputation Server source code is available on GitHub. Feel free to create issues and pull requests. 
-
-Please contact [Christian Fuchsberger](https://github.com/genepi/imputationserver) in case of other problems.
-
-
 ## Qatar Imputation Server Team
 
 Qatar Imputation Server provides a free genotype imputation service using Minimac4. You can upload phased or unphased GWAS genotypes and receive phased and imputed genomes in return. For all uploaded data sets an extensive QC is performed.
