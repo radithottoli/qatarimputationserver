@@ -34,7 +34,7 @@ When using the file upload, data is uploaded from your local file system to Qata
 
 Multiple files can be selected using the ***ctrl, cmd or shift*** keys, depending on your operating system. After you have confirmed your choice, all selected files are listed in the submission dialog:
 
-![setup](img/gs_3.png)
+![setup](img/gs_03.png)
 
 ### Import VCF files via SFTP
 
