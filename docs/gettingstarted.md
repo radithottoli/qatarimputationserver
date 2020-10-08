@@ -15,7 +15,7 @@ The following options are available:
 
 ### Reference Panel
 
-Our servers offers genotype imputation from different reference panels. The most accurate and largest panel is **HRC (Version r1.1 2016)**. Please select one that fulfills your needs and supports the population of your input data:
+Our server offers genotype imputation from different reference panels. The most accurate and largest panel is **HRC (Version r1.1 2016)**. Please select one that fulfills your needs and supports the population of your input data:
 
 * Qatar Genome
 * 1000 Genomes Phase 3 (Version 5)
@@ -30,7 +30,7 @@ VCF files can be uploaded either from your local disk or by specifying a remote 
 
 When using the file upload, data is uploaded from your local file system to Qatar Imputation Server. By clicking on **Select Files** an open dialog appears where you can select your VCF files:
 
-![setup](img/gs_2.png)
+![setup](img/gs_02.png)
 
 Multiple files can be selected using the ***ctrl, cmd or shift*** keys, depending on your operating system. After you have confirmed your choice, all selected files are listed in the submission dialog:
 
