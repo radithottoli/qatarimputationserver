@@ -9,13 +9,13 @@ To use Qatar Imputation Server, a [registration](http://imputation.sidra:8082/in
 
 Please login with your credentials and click on the **Run** tab to start a new imputation job. The submission dialog allows you to specify the properties of your imputation job.
 
-![setup](img/gs_1.png)
+![setup](img/gs_01.png)
 
 The following options are available:
 
 ### Reference Panel
 
-Our server offers genotype imputation from different reference panels. The most accurate and largest panel is **HRC (Version r1.1 2016)**. Please select one that fulfills your needs and supports the population of your input data:
+Our servers offers genotype imputation from different reference panels. The most accurate and largest panel is **HRC (Version r1.1 2016)**. Please select one that fulfills your needs and supports the population of your input data:
 
 * Qatar Genome
 * 1000 Genomes Phase 3 (Version 5)
